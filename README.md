@@ -1,7 +1,7 @@
 ## About Me
 [![AboutMe](https://img.shields.io/badge/AboutMe-000000?style=flat-square&logo=Notion&logoColor=white)](https://flint-stork-ee5.notion.site/Bae-Seonghyun-56f21cea36ab4ec0931d16b87e96f0be)
 [![학습정리](https://img.shields.io/badge/StudyNotes-888888?style=flat-square&logo=Notion&logoColor=white)](https://flint-stork-ee5.notion.site/94e10067504243b7980d12cec02fb862)
-[![Mail To](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:xfile6912@u.sogang.ac.kr)
+[![Mail To](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:xfile6912@naver.com)
 <br>
 
 ## Skill
