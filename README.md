@@ -1,6 +1,6 @@
 ## About Me
-[![AboutMe](https://img.shields.io/badge/AboutMe-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/Bae-Seonghyun-6b23279b4a154a1681ad47c442f05af5?pvs=4)
-[![학습정리](https://img.shields.io/badge/StudyNotes-888888?style=flat-square&logo=Notion&logoColor=white)](https://sprinkle-hoodie-0e3.notion.site/a7eb0c572eb0448e830cd992b7724dac?pvs=4)
+[![AboutMe](https://img.shields.io/badge/AboutMe-000000?style=flat-square&logo=Notion&logoColor=white)](https://sprinkle-hoodie-0e3.notion.site/Bae-Seonghyun-6b23279b4a154a1681ad47c442f05af5?pvs=4)
+[![학습정리](https://img.shields.io/badge/StudyNotes-888888?style=flat-square&logo=Notion&logoColor=white)](https://sprinkle-hoodie-0e3.notion.site/af37d76c08db4b0a984d79b720e66cf8?pvs=4)
 [![Mail To](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:xfile6912@naver.com)
 <br>
 
